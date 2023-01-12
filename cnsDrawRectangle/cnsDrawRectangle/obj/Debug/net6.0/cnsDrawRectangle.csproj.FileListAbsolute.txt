@@ -1,0 +1,60 @@
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.exe
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\refint\cnsDrawRectangle.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\ref\cnsDrawRectangle.dll
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.exe
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.deps.json
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.runtimeconfig.json
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.dll
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.pdb
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfo.cs
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.dll
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\refint\cnsDrawRectangle.dll
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.pdb
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.genruntimeconfig.cache
+C:\Users\Александра\Desktop\homework\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\ref\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\refint\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\ref\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\bin\Debug\net6.0\cnsDrawRectangle.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\refint\cnsDrawRectangle.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\cnsDrawRectangle.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawRectangle\cnsDrawRectangle\obj\Debug\net6.0\ref\cnsDrawRectangle.dll

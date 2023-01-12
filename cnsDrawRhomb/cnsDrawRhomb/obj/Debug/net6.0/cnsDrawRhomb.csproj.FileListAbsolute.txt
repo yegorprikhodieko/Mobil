@@ -1,0 +1,15 @@
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\bin\Debug\net6.0\cnsDrawRhomb.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\bin\Debug\net6.0\cnsDrawRhomb.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\bin\Debug\net6.0\cnsDrawRhomb.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\bin\Debug\net6.0\cnsDrawRhomb.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\bin\Debug\net6.0\cnsDrawRhomb.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\refint\cnsDrawRhomb.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\cnsDrawRhomb.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawRhomb\cnsDrawRhomb\obj\Debug\net6.0\ref\cnsDrawRhomb.dll

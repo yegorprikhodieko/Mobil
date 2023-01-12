@@ -1,0 +1,72 @@
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.exe
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.deps.json
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.runtimeconfig.json
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Form1.resources
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Properties.Resources.resources
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.GenerateResource.cache
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfo.cs
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\refint\wfaControlMoveOnMouse.dll
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.genruntimeconfig.cache
+C:\Users\Александра\Desktop\wfaControlMoveOnMouse\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\ref\wfaControlMoveOnMouse.dll
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.exe
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.deps.json
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.runtimeconfig.json
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.AssemblyReference.cache
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Form1.resources
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Properties.Resources.resources
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.GenerateResource.cache
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfoInputs.cache
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfo.cs
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.CoreCompileInputs.cache
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\refint\wfaControlMoveOnMouse.dll
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.genruntimeconfig.cache
+D:\загрузки\ImageScroll_2_varianta\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\ref\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Form1.resources
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Properties.Resources.resources
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\refint\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\ref\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\bin\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Form1.resources
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.Properties.Resources.resources
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\refint\wfaControlMoveOnMouse.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\wfaControlMoveOnMouse.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\wfaImageScroll\wfaControlMoveOnMouse\obj\Debug\net6.0-windows\ref\wfaControlMoveOnMouse.dll

@@ -1,0 +1,45 @@
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.exe
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\refint\cnsDrawChessboard.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\ref\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\refint\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\ref\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\bin\Debug\net6.0\cnsDrawChessboard.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\refint\cnsDrawChessboard.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\cnsDrawChessboard.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsDrawChessboard\cnsDrawChessboard\obj\Debug\net6.0\ref\cnsDrawChessboard.dll

@@ -1,0 +1,45 @@
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.exe
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.deps.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.runtimeconfig.json
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.csproj.AssemblyReference.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.AssemblyInfoInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.AssemblyInfo.cs
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.csproj.CoreCompileInputs.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\refint\cnsColor.dll
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.pdb
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.genruntimeconfig.cache
+D:\2021\Мосполитех\3 курс 1 семестр\cnsColor\cnsColor\obj\Debug\net6.0\ref\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\refint\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егору\cnsColor\cnsColor\obj\Debug\net6.0\ref\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.exe
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.deps.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.runtimeconfig.json
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\bin\Debug\net6.0\cnsColor.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\refint\cnsColor.dll
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.pdb
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\cnsColor.genruntimeconfig.cache
+C:\Users\ACER\Downloads\Telegram Desktop\Егор\cnsColor\cnsColor\obj\Debug\net6.0\ref\cnsColor.dll
